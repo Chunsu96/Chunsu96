@@ -4,6 +4,4 @@ This is also to help me personally, whenever I'm coding something, I can refer t
 
 I'm not a master at anything, I'm just learning and improving my skills to hopefully land a job.
 
-Chunsu96/Chunsu96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
